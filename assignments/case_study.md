@@ -7,10 +7,13 @@ You are a Chief Technology Officer of a Multi-National Company. The technical te
     As a chief technology officer of a MNC, for the above stated scenario going throughly through it, i would suggest to use the .NET's MAUI UI for the development of Android, iOS, macOS, and Windows applications.   
     .NET Multi-platform App UI (.NET MAUI) is a cross-platform framework for creating native mobile and desktop apps with C# and XAML.
     Using .NET MAUI, you can develop apps that can run on Android, iOS, macOS, and Windows from a single shared code-base. 
-    .NET MAUI unifies Android, iOS, macOS, and Windows APIs into a single API that allows a write-once run-anywhere developer experience, while additionally providing deep access to every aspect of each native platform.                              
-    As the BCL enables apps running on different platforms to share common business logic, the various platforms have different ways of defining the user interface for an app, and they provide varying models for specifying how the elements of a user interface communicate and interoperate.
+    .NET MAUI unifies Android, iOS, macOS, and Windows APIs into a single API that allows a write-once run-anywhere developer 
+    experience, while additionally providing deep access to every aspect of each native platform.                              
+    As the BCL enables apps running on different platforms to share common business logic, the various platforms 
+    have different ways of defining the user interface for an app, and they provide varying models for specifying how the 
+    elements of a user interface communicate and interoperate.
 
-     .NET MAUI also provides:
+    .NET MAUI also provides:
     * An elaborate layout engine for designing pages.
     * Multiple page types for creating rich navigation types, like drawers.
     * Support for data-binding, for more elegant and maintainable development patterns.
